@@ -1,0 +1,1 @@
+Train the model: First, you need to download the training patches in HDF5 format from GoogleDrive and put it in folder data/train. 
