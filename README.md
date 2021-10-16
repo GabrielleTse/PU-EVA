@@ -1,8 +1,8 @@
 # PU-EVA
 # PU-EVA: An Edge-Vector based Approximation Solution for Flexible-scale Point Cloud Upsampling
-we propose a novel design of Edge-Vector based Approximation for Flexible-scale Point clouds Upsampling (PU-EVA). The proposed PU-EVA decouples the upsampling scales with network architecture, making the upsampling rate flexible in one-time end-to-end training. 
+This repository contains codes of ICCV2021 paper: Edge-Vector based Approximation for Flexible-scale Point clouds Upsampling (PU-EVA). The proposed PU-EVA decouples the upsampling scales with network architecture, making the upsampling rate flexible in one-time end-to-end training. 
 
-[[Project]](https://github.com/GabrielleTse/PU-EVA) [[Paper]](https://)     
+[[Project]](https://github.com/GabrielleTse/PU-EVA) [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Luo_PU-EVA_An_Edge-Vector_Based_Approximation_Solution_for_Flexible-Scale_Point_Cloud_ICCV_2021_paper.html)     
 
 ## Overview
 `PU-EVA` . 
@@ -23,8 +23,14 @@ python evalutate.py
 ```
 
 ## Citation
-Please cite this paper if you want to use it in your work,
-
+@InProceedings{Luo_2021_ICCV,
+    author    = {Luo, Luqing and Tang, Lulu and Zhou, Wanyi and Wang, Shizheng and Yang, Zhi-Xin},
+    title     = {PU-EVA: An Edge-Vector Based Approximation Solution for Flexible-Scale Point Cloud Upsampling},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {16208-16217}
+}
 
 ## License
 MIT License
