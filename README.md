@@ -6,7 +6,6 @@ This repository contains codes of ICCV2021 paper: Edge-Vector based Approximatio
 
 ## Overview
 High-quality point clouds have practical significance for point-based rendering, semantic understanding, and surface reconstruction. Upsampling sparse, noisy and non-uniform point clouds for a denser and more regular approximation of target objects is a desirable but challenging task. Most existing methods duplicate point features for upsampling, constraining the upsampling scales at a fixed rate. In this work, the arbitrary point clouds upsampling rates are achieved via edge-vector based affine combinations, and a novel design of Edge-Vector based Approximation for Flexible-scale Point clouds Upsampling (PU-EVA) is proposed. The edge-vector based approximation encodes neighboring connectivity via affine combinations based on edge vectors, and restricts the approximation error within a second-order term of Taylor's Expansion. Moreover, the EVA upsampling decouples the upsampling scales with network architecture, achieving the arbitrary upsampling rates in one-time training. Qualitative and quantitative evaluations demonstrate that the proposed PU-EVA outperforms the state-of-the-arts in terms of proximity-to-surface, distribution uniformity, and geometric details preservation.
-![图片3](https://user-images.githubusercontent.com/37495877/137577669-842f2a99-fed1-4f53-b302-4ecf667b8b6e.png)
 ![luo2](https://user-images.githubusercontent.com/37495877/137577671-fccc356c-e930-49c2-bdc0-575160a361b5.png)
 
 ## Requirements
