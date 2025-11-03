@@ -22,7 +22,7 @@ python evalutate.py
 
 ```
 
-The pretrained model can be found at [[GoogleDrive]]([https://github.com/GabrielleTse/PU-EV](https://drive.google.com/drive/folders/1UEVm1SHUi-3O9x-T004jimEH6U__BfkZ)A)
+The pretrained model can be found at [GoogleDrive](https://drive.google.com/drive/folders/1UEVm1SHUi-3O9x-T004jimEH6U__BfkZ)
 
 ## Citation
 @InProceedings{Luo_2021_ICCV,
